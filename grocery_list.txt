@@ -5,3 +5,9 @@ cereal
 milk
 bread
 eggs
+blanket
+Cereal
+Juice
+oranges
+yogurt
+
