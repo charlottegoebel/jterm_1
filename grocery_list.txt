@@ -1,0 +1,7 @@
+Grocery List
+apples
+bananas
+cereal
+milk
+bread
+eggs
