@@ -1,2 +1,2 @@
-# jterm_1
-J term project 2023-24
+# Open Source Jterm
+January term `project`: 2023-2024. 
